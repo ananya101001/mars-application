@@ -1,5 +1,3 @@
 export default {
-  build: {
-    outDir: 'dist', // Make sure this matches the deploy directory in your workflow
-  }
-};
+  base: '/mars-application/',  // This should match the name of your repository
+}
