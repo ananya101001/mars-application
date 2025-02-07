@@ -33,7 +33,8 @@ Deployment:
 gh-pages: A Node.js package to simplify deployment to GitHub Pages particular when we use JSX.
 
 
-Steps to implement:
+**Steps to implement:**
+
 1.git clone https://github.com/ananya101001/mars-application.git
 2. your terminal shows /path/mars-application %
 3. npm install
