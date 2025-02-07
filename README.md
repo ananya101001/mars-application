@@ -35,10 +35,15 @@ gh-pages: A Node.js package to simplify deployment to GitHub Pages particular wh
 
 Steps to implement:
 1.git clone https://github.com/ananya101001/mars-application.git
-2. cd mars-app
+2. your terminal shows /path/mars-application %
 3. npm install
-4. npm run dev
-5. Access at http://localhost:5173
-5.Also access at https://ananya101001.github.io/mars-application/
+4. node -v
+5. if If it's not >=18, please upgrade using nvm:
+nvm install 18
+nvm use 18
+6.rm -rf node_modules package-lock.json
+7.npm run dev     
+7. Access at http://localhost:5173 ( copy paste in browser) 
+
 
 
