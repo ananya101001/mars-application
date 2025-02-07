@@ -38,6 +38,7 @@ Steps to implement:
 2. cd mars-app
 3. npm install
 4. npm run dev
-5.Access at http://localhost:5173
-6.Also access at https://ananya101001.github.io/mars-application/
+5. Access at http://localhost:5173
+5.Also access at https://ananya101001.github.io/mars-application/
+
 
